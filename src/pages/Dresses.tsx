@@ -65,7 +65,7 @@ const dresses = [
     name: 'فستان همسة الحرير',
     description: 'فستان فاخر بتفاصيل أنيقة ولمسات حريرية ناعمة تمنحك إطلالة ملكية ساحرة',
     price: '2550 درهم',
-    image: '/images/dress5.jpg',
+    image: '/images/dress4.jpg',
     tag: 'جديد',
   },
   
