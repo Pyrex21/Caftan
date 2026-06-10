@@ -26,7 +26,6 @@ const galleryImages = [
   { src: '/images/dress2.jpg', title: 'فستان الدانتيل', category: 'فساتين' },
   { src: '/images/accessory2.jpg', title: 'إكليل الشعر', category: 'إكسسوارات' },
   { src: '/images/caftan5.jpg', title: 'قفطان زهور الأطلس', category: 'قفاطين' },
-   { src: '/images/dress5.jpg', title: 'فستان همسة الحرير', category:'فساتين' },
   
 ];
 

@@ -60,14 +60,7 @@ const dresses = [
     image: '/images/dress2.jpg',
     tag: null,
   },
-   {
-    id: 7,
-    name: 'فستان همسة الحرير',
-    description: 'فستان مغربي أنيق بلمسات حريرية لإطلالة ملكية ساحرة.',
-    price: '2000 درهم',
-    image: '/images/dress5.jpg',
-    tag: 'جديد',
-  },
+  
   
 ];
 
