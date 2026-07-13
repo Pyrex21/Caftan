@@ -8,8 +8,6 @@ const navLinks = [
   { path: '/caftans', label: 'القفاطين' },
   { path: '/dresses', label: 'فساتين الأعراس' },
   { path: '/amaria', label: 'العمارية' },
-  { path: '/accessories', label: 'الإكسسوارات' },
-  { path: '/packages', label: 'الباقات' },
   { path: '/gallery', label: 'معرض الصور' },
   { path: '/contact', label: 'تواصل معنا' },
 ];
@@ -75,7 +73,7 @@ export default function Navbar() {
           {/* CTA Button */}
           <div className="hidden lg:block">
             <a
-              href="https://wa.me/212661060497?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%8A%D9%88%D9%85%20%D8%B2%D9%81%D8%A7%D9%81%D9%8A"
+              href="https://wa.me/212680895976?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%8A%D9%88%D9%85%20%D8%B2%D9%81%D8%A7%D9%81%D9%8A"
               target="_blank"
               rel="noopener noreferrer"
               className="gold-gradient text-white px-6 py-2.5 rounded-full text-sm font-semibold hover:shadow-lg hover:shadow-gold-500/30 transition-all duration-300 hover:-translate-y-0.5"
@@ -135,7 +133,7 @@ export default function Navbar() {
                 className="pt-2"
               >
                 <a
-                  href="https://wa.me/212661060497?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%8A%D9%88%D9%85%20%D8%B2%D9%81%D8%A7%D9%81%D9%8A"
+                  href="https://wa.me/212680895976?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%8A%D9%88%D9%85%20%D8%B2%D9%81%D8%A7%D9%81%D9%8A"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center gold-gradient text-white px-6 py-3 rounded-full text-sm font-semibold"

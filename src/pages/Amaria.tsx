@@ -89,7 +89,7 @@ export default function Amaria() {
                 </div>
               </div>
               <a
-                href="https://wa.me/212661060497?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9"
+                href="https://wa.me/212680895976?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 gold-gradient text-white px-8 py-3 rounded-full font-semibold hover:shadow-lg transition-all"
@@ -216,7 +216,7 @@ export default function Amaria() {
                   <div className="text-center md:text-left">
                     <p className="text-3xl font-bold gold-text mb-3">{pkg.price}</p>
                     <a
-                      href={`https://wa.me/212661060497?text=${encodeURIComponent(`السلام عليكم، أريد الحجز للعمارية: ${pkg.name}`)}`}
+                      href={`https://wa.me/212680895976?text=${encodeURIComponent(`السلام عليكم، أريد الحجز للعمارية: ${pkg.name}`)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-1 gold-gradient text-white px-6 py-2 rounded-full text-sm font-semibold hover:shadow-lg transition-all"

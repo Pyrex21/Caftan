@@ -127,7 +127,7 @@ export default function Dresses() {
                     <div className="flex items-center justify-between">
                       <span className="text-2xl font-bold gold-text">{dress.price}</span>
                       <a
-                        href={`https://wa.me/212661060497?text=${encodeURIComponent(`السلام عليكم، أريد الاستفسار عن: ${dress.name}`)}`}
+                        href={`https://wa.me/212680895976?text=${encodeURIComponent(`السلام عليكم، أريد الاستفسار عن: ${dress.name}`)}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 gold-gradient text-white px-4 py-2 rounded-full text-sm font-semibold hover:shadow-lg transition-all"

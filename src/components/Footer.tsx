@@ -6,7 +6,6 @@ const quickLinks = [
   { path: '/caftans', label: 'القفاطين' },
   { path: '/dresses', label: 'فساتين الأعراس' },
   { path: '/amaria', label: 'العمارية' },
-  { path: '/packages', label: 'الباقات' },
   { path: '/contact', label: 'تواصل معنا' },
 ];
 
@@ -14,8 +13,6 @@ const services = [
   'إيجار الفساتين',
   'إيجار القفاطين',
   'العمارية الملكية',
-  'إكسسوارات العروس',
-  'باقات الزفاف',
   'جلسات التصوير',
 ];
 
@@ -30,15 +27,15 @@ export default function Footer() {
               <Crown className="w-8 h-8 text-gold-500" />
               <div className="flex flex-col">
                 <span className="text-2xl font-bold gold-text font-naskh">
-                 كوشو
+                  كوشو
                 </span>
                 <span className="text-xs text-gold-600 tracking-widest">
-                للأعراس
+                  للأعراس
                 </span>
               </div>
             </Link>
             <p className="text-gray-600 text-sm leading-relaxed">
-              نُضفي لمسة من الفخامة والأناقة على يومكِ الأجمل. نقدم أرقى الفساتين والقفاطين المغربية والإكسسوارات الفاخرة لعروس تستحق الأفضل.
+              نُضفي لمسة من الفخامة والأناقة على يومكِ الأجمل. نقدم أرقى الفساتين والقفاطين المغربية لعروس تستحق الأفضل.
             </p>
             <div className="flex items-center gap-3 pt-2">
               <a
@@ -48,7 +45,7 @@ export default function Footer() {
                 <Instagram className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/share/1CvTwAi51U/"
                 className="w-10 h-10 rounded-full bg-gold-50 flex items-center justify-center text-gold-600 hover:bg-gold-500 hover:text-white transition-all duration-300"
               >
                 <Facebook className="w-5 h-5" />
@@ -103,7 +100,7 @@ export default function Footer() {
                 <Phone className="w-5 h-5 text-gold-500 mt-0.5 shrink-0" />
                 <div>
                   <p className="text-gray-800 font-medium text-sm">الهاتف</p>
-                  <p className="text-gray-600 text-sm" dir="ltr">+212 6 61 06 04 97</p>
+                  <p className="text-gray-600 text-sm" dir="ltr">+212 6 80 89 59 76</p>
                 </div>
               </li>
               <li className="flex items-start gap-3">
@@ -130,13 +127,27 @@ export default function Footer() {
 
         <div className="section-divider mt-12 mb-6"></div>
 
-        <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="flex flex-col items-center justify-between gap-4 text-center">
           <p className="text-gray-500 text-sm">
-             جميع الحقوق محفوظة © 2026 
+            جميع الحقوق محفوظة © 2026
           </p>
-          <p className="text-gray-400 text-xs">
-            تم تطوير الموقع من طرف   <br /><br /><span>Mohamed Kouchou</span>
-          </p>
+          <div className="mt-2 text-center ">
+            <p className="text-gray-400 text-sm">
+              تم بناء الموقع من طرف 
+              </p>
+               <a 
+               href="https://www.instagram.com/moh4med____k?igsh=Y2xsNGt1M3YxZG9y"
+               target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#D4AF37] hover:text-[#F4D03F] font-blond text-lg transition duration-300"
+                >
+                Mohamed Kouchou
+               </a>
+            
+
+
+          </div>
+
         </div>
       </div>
     </footer>

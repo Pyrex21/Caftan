@@ -82,7 +82,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="font-semibold text-gray-800 mb-1">الهاتف</p>
-                      <p className="text-gray-600 text-sm" dir="ltr">+212 6 61 06 04 97</p>
+                      <p className="text-gray-600 text-sm" dir="ltr">+212 6 80 89 59 76</p>
                       <p className="text-gray-500 text-xs mt-1">متواجدون للإجابة عن استفساراتكِ</p>
                     </div>
                   </div>
@@ -93,9 +93,9 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="font-semibold text-gray-800 mb-1">الواتساب</p>
-                      <p className="text-gray-600 text-sm" dir="ltr">+212 6 61 06 04 97</p>
+                      <p className="text-gray-600 text-sm" dir="ltr">+212 6 80 89 59 76</p>
                       <a
-                        href="https://wa.me/212661060497?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%8A%D9%88%D9%85%20%D8%B2%D9%81%D8%A7%D9%81%D9%8A"
+                        href="https://wa.me/212680895976?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%8A%D9%88%D9%85%20%D8%B2%D9%81%D8%A7%D9%81%D9%8A"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-green-600 text-sm font-medium mt-2 hover:underline"
@@ -127,16 +127,6 @@ export default function Contact() {
                       <p className="text-gray-600 text-sm">
                         الإثنين - الأحد: 8:00 ص - 22:00 م
                       </p>
-                    </div>
-                  </div>
-
-                  <div className="flex items-start gap-4 bg-white rounded-xl p-5 gold-border">
-                    <div className="w-12 h-12 rounded-full bg-gold-50 flex items-center justify-center shrink-0">
-                      <Mail className="w-5 h-5 text-gold-600" />
-                    </div>
-                    <div>
-                      <p className="font-semibold text-gray-800 mb-1">البريد الإلكتروني</p>
-                      <p className="text-gray-600 text-sm" dir="ltr">contact@layla-rental.ma</p>
                     </div>
                   </div>
                 </div>
@@ -252,7 +242,7 @@ export default function Contact() {
                     </p>
                   </div>
                   <a
-                    href="https://wa.me/212661060497?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%8A%D9%88%D9%85%20%D8%B2%D9%81%D8%A7%D9%81%D9%8A"
+                    href="https://wa.me/212680895976?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%2C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AD%D8%AC%D8%B2%20%D9%84%D9%8A%D9%88%D9%85%20%D8%B2%D9%81%D8%A7%D9%81%D9%8A"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-[#25D366] text-white px-5 py-2.5 rounded-full text-sm font-semibold hover:shadow-lg transition-all shrink-0"

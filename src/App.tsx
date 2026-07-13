@@ -6,8 +6,6 @@ import Home from './pages/Home';
 import Caftans from './pages/Caftans';
 import Dresses from './pages/Dresses';
 import Amaria from './pages/Amaria';
-import Accessories from './pages/Accessories';
-import Packages from './pages/Packages';
 import Gallery from './pages/Gallery';
 import Contact from './pages/Contact';
 
@@ -22,8 +20,6 @@ function App() {
             <Route path="/caftans" element={<Caftans />} />
             <Route path="/dresses" element={<Dresses />} />
             <Route path="/amaria" element={<Amaria />} />
-            <Route path="/accessories" element={<Accessories />} />
-            <Route path="/packages" element={<Packages />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
