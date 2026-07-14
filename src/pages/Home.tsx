@@ -24,7 +24,7 @@ const services = [
     icon: Sparkles,
     title: 'فساتين أعراس',
     description: 'فساتين زفاف فاخرة من أشهر المصممين العالميين',
-    image: '/images/dress1.jpg',
+    image: '/images/dress_new_1.jpeg',
     link: '/dresses',
   },
   {
