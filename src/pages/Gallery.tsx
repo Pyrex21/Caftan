@@ -15,24 +15,31 @@ const staggerContainer = {
 const galleryImages = [
   { src: '/images/hero.jpg', title: 'فستان الأميرة', category: 'فساتين' },
   { src: '/images/caftan_new_1.jpeg', title: 'قفطان الليل الملكي', category: 'قفاطين' },
-  { src: '/images/dress1.jpg', title: 'فستان الحورية', category: 'فساتين' },
+  { src: '/images/dress_new_1.jpeg', title: 'زمردة السلطانة', category: 'فساتين' },
   { src: '/images/amaria1.jpg', title: 'العمارية الملكية', category: 'عمارية' },
   { src: '/images/gallery1.jpg', title: 'تجربة العروس', category: 'لقطات' },
   { src: '/images/gallery2.jpg', title: 'لحظة رومانسية', category: 'لقطات' },
   { src: '/images/gallery3.jpg', title: 'حناء العروس', category: 'لقطات' },
   { src: '/images/gallery4.jpg', title: 'بوكيه العروس', category: 'لقطات' },
   { src: '/images/caftan_new_2.jpeg', title: 'قفطان الياقوت الملكي', category: 'قفاطين' },
-  { src: '/images/dress2.jpg', title: 'فستان الدانتيل', category: 'فساتين' },
+  { src: '/images/dress_new_2.jpeg', title: 'فستان لؤلؤة الملوك', category: 'فساتين' },
   { src: '/images/caftan_new_5.jpeg', title: 'قفطان التوت الملكي', category: 'قفاطين' },
   { src: '/images/caftan_new_3.jpeg', title: 'قفطان الزمرد الملكي', category: 'قفاطين' },
+  { src: '/images/dress_new_6.jpeg', title: 'فستان جوهرة القصر', category: 'فساتين' },
   { src: '/images/caftan_new_12.jpeg', title: 'قفطان نسيم المرجان', category: 'قفاطين' },
   { src: '/images/caftan_new_8.jpeg', title: 'قفطان الياقوت الأحمر', category: 'قفاطين' },
   { src: '/images/caftan_new_10.jpeg', title: 'قفطان الجوهرة السوداء', category: 'قفاطين' },
   { src: '/images/caftan_new_6.jpeg', title: 'قفطان النسيم الزمردي', category: 'قفاطين' },
   { src: '/images/caftan_new_11.jpeg', title: 'قفطان شمس الأطلس', category: 'قفاطين' },
+  { src: '/images/dress_new_4.jpeg', title: 'فستان سحر الليل', category: 'فساتين' },
   { src: '/images/caftan_new_7.jpeg', title: 'قفطان العنابي الملكي', category: 'قفاطين' },
   { src: '/images/caftan_new_4.jpeg', title: 'قفطان المرجان الذهبي', category: 'قفاطين' },
   { src: '/images/caftan_new_9.jpeg', title: 'قفطان الجوهرة العنابية', category: 'قفاطين' },
+  { src: '/images/dress_new_5.jpeg', title: 'فستان الياقوت الأزرق', category: 'فساتين' },
+  { src: '/images/dress_new_7.jpeg', title: 'فستان وهج الياقوت', category: 'فساتين' },
+  { src: '/images/dress_new_3.jpeg', title: 'فستان أميرة الذهب', category: 'فساتين' },
+  
+
 ];
 
 const categories = ['الكل', 'فساتين', 'قفاطين', 'عمارية', 'لقطات'];

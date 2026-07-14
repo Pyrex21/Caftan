@@ -69,7 +69,7 @@ export default function Amaria() {
               </h2>
               <p className="text-gray-600 leading-relaxed">
                 العمارية هي تقليد مغربي عريق يحمل العروس فوق رؤوس الحاضرين في حفل الزفاف.
-                في بوتيك ليلى، نقدم لكِ عمارية فاخرة مزخرفة بألوان ذهبية وحجرات كريستال
+                في بوتيك كوشو، نقدم لكِ عمارية فاخرة مزخرفة بألوان ذهبية وحجرات كريستال
                 وأقمشة مبالغة بالأزهار والدانتيل.
               </p>
               <p className="text-gray-600 leading-relaxed">
@@ -187,16 +187,6 @@ export default function Amaria() {
             className="space-y-6"
           >
             {[
-              {
-                name: 'العمارية الكلاسيكية',
-                price: '2,000 درهم',
-                features: ['عمارية مزخرفة', '4 حاضرين', 'تزيين أزهار'],
-              },
-              {
-                name: 'العمارية الملكية',
-                price: '3,500 درهم',
-                features: ['عمارية فاخرة بالكريستال', '4 حاضرين مدربين', 'تزيين كامل بالدانتيل', 'موسيقى حناء'],
-              },
             ].map((pkg, index) => (
               <motion.div key={index} variants={fadeInUp}>
                 <div className="bg-white rounded-2xl p-8 gold-border gold-shadow flex flex-col md:flex-row md:items-center md:justify-between gap-6">
